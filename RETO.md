@@ -2,7 +2,7 @@
 
 **Repositorio:** `sideproject-estado-de-cuenta` · **Tipo:** ETL en Python puro · **Tiempo:** 3–4 h · **Después de:** los dos grandes integradores de este módulo
 
-> Reglas, README y lista de cierre: [`06_ingenieria_de_datos/SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
@@ -45,4 +45,4 @@ Datos: `datos/movimientos.csv` (léelo con `csv.DictReader`).
 ## Súbelo de nivel
 
 - El mes con más gasto y la diferencia contra el mes anterior.
-- Cuando termines `04_funciones_y_excepciones`, vuelve y repártelo en funciones.
+- Cuando termines `02_funciones_y_poo`, vuelve y repártelo en funciones.

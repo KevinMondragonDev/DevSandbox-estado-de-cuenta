@@ -2,7 +2,7 @@
 
 > Mi primer ETL en Python puro: de un CSV de movimientos bancarios a un reporte de en qué se va el dinero.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL en Python puro · **Módulo del programa:** 03 · Estructuras de datos
+**Estado:** 🚧 sin empezar · **Tipo:** ETL en Python puro · **Módulo del programa:** 01 · Fundamentos
 
 ## La problemática
 
