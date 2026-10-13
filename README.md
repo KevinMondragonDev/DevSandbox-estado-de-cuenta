@@ -2,7 +2,18 @@
 
 > Mi primer ETL en Python puro: de un CSV de movimientos bancarios a un reporte de en qué se va el dinero.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL en Python puro · **Módulo del programa:** 01 · Fundamentos
+**Estado:** 🚧 sin empezar · **Categoría:** DevSandbox · **Tipo:** ETL en Python puro · **Módulo del programa:** 01 · Fundamentos
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| **`DevSandbox-`** ← este | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| `NightBuilds-` | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **DevSandbox**: el reto está estimado en 3–4 h.
 
 ## La problemática
 
