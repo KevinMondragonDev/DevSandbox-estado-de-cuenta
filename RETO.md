@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Estado de cuenta
+# 🚀 DevSandbox — Estado de cuenta
 
-**Repositorio:** `sideproject-estado-de-cuenta` · **Tipo:** ETL en Python puro · **Tiempo:** 3–4 h · **Después de:** los dos grandes integradores de este módulo
+**Repositorio:** `DevSandbox-estado-de-cuenta` · **Tipo:** ETL en Python puro · **Tiempo:** 3–4 h · **Después de:** los dos grandes integradores de este módulo
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
